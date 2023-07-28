@@ -1,0 +1,13 @@
+What Cypress is and why you should use it?
+
+Cypress is an open source test automation tool specifically designed for testing modern web applications.
+
+Cypress makes it possible to:
+
+- Set up tests
+
+- Write tests
+
+- Run tests
+
+- Debug Tests
